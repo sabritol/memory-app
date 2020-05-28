@@ -12,7 +12,7 @@ export default {
   components: {
     Card
   }
-}
+};
 </script>
 
 <style scoped lang="scss">

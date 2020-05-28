@@ -39,7 +39,7 @@
 </template>
 
 <script>
-import CardsTable from "./components/CardsTable.vue";
+import CardsTable from "./components/CardsSelector.vue";
 import Modal from "./components/Modal.vue";
 
 export default {
